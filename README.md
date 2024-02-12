@@ -26,7 +26,7 @@
 
 freeCodeCamp's Front End Libraries Projects
 
-#Tutorial
+# Tutorial
 https://www.youtube.com/watch?v=q6POuxK9ITI&t
 
 # Images
