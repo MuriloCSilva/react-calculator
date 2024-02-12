@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=q6POuxK9ITI&t
 ![Home Page](https://i.imgur.com/b3Wx5Xy.png)
 
 # Live Demo
-https://murilocsilva.github.io/Markdown-Previewer-App/
+https://murilocsilva.github.io/react-calculator/
 
 # Run
 ```bash
